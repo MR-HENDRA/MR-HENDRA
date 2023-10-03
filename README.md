@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m HXCODE
 
 - I'm interested in programming, design and video
-- I'm studying Programming: Java and Python
+- I'm studying Programming: Java, PHP, JS and Python
 - ️I like reading, listening to music and writing poetry.
 
 ### Languages and Tools:
