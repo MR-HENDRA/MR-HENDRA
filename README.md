@@ -2,7 +2,7 @@
 <h3 align="center">Master's Student | Blockchain & Cryptography Researcher | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Blockchain+Security+Researcher;AES-GCM-256+%2B+IPFS+%2B+Smart+Contract;Coding+with+Python%2C+Java%2C+JS%2C+PHP;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Blockchain+Security+Researcher;AES-GCM-256+%2B+IPFS+%2B+Smart+Contract;Python+%7C+Java+%7C+JavaScript+%7C+PHP;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,12 +14,14 @@
 - 🎯 Focus: **Cryptography, Decentralized Systems, Smart Contracts**
 - 📚 Studying: **Java, PHP, JavaScript, Python, Solidity**
 - 🎬 Also interested in **Design & Video Editing**
+- 📖 I love **reading, listening to music, and writing poetry**
 
 ---
 
 ## 🚀 Current Project
 
 ### 🔐 Encrypted File Storage on Blockchain
+
 > Secure file storage using **AES-GCM-256** + **IPFS** + **Ethereum Smart Contract**
 
 | Komponen | Teknologi |
@@ -29,6 +31,14 @@
 | On-chain | Solidity Smart Contract |
 | Blockchain | Ganache / Ethereum |
 | Bahasa | Python, Solidity |
+
+**Fitur:**
+- ✅ Enkripsi file TXT & PDF
+- ✅ Verifikasi integritas via SHA-256 + Blockchain
+- ✅ Manajemen kunci per file
+- ✅ Metadata terpisah dari ciphertext
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -54,7 +64,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -62,12 +71,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HXCODE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HXCODE&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-HENDRA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-HENDRA&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-HENDR&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-HENDRA&theme=tokyonight" />
 </p>
 
 ---
@@ -90,5 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MR-HENDRA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-HENDR" />
+  <img src="https://komarev.com/ghpvc/?username=MR-HENDRA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-HENDRA" />
 </p>
