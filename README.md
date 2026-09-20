@@ -9,12 +9,11 @@
 
 ## 🎓 About Me
 
-- 🔬 Currently researching **Blockchain Security** at **Universitas Gadjah Mada (UGM)**
+- 🔬 Currently researching **Blockchain Security**
 - 🛡️ Building a **data storage system** using **AES-GCM-256, IPFS, and Blockchain**
 - 🎯 Focus: **Cryptography, Decentralized Systems, Smart Contracts**
 - 📚 Studying: **Java, PHP, JavaScript, Python, Solidity**
 - 🎬 Also interested in **Design & Video Editing**
-- 📖 I love **reading, listening to music, and writing poetry**
 
 ---
 
@@ -31,12 +30,6 @@
 | On-chain | Solidity Smart Contract |
 | Blockchain | Ganache / Ethereum |
 | Bahasa | Python, Solidity |
-
-**Fitur:**
-- ✅ Enkripsi file TXT & PDF
-- ✅ Verifikasi integritas via SHA-256 + Blockchain
-- ✅ Manajemen kunci per file
-- ✅ Metadata terpisah dari ciphertext
 
 ---
 
