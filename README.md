@@ -14,7 +14,6 @@
 - 🎯 Focus: **Cryptography, Decentralized Systems, Smart Contracts**
 - 📚 Studying: **Java, PHP, JavaScript, Python, Solidity**
 - 🎬 Also interested in **Design & Video Editing**
-- 📖 I love **reading, listening to music, and writing poetry**
 
 ---
 
@@ -30,14 +29,6 @@
 | On-chain | Solidity Smart Contract |
 | Blockchain | Ganache / Ethereum |
 | Bahasa | Python, Solidity |
-
-**Fitur:**
-- ✅ Enkripsi file TXT & PDF
-- ✅ Verifikasi integritas via SHA-256 + Blockchain
-- ✅ Manajemen kunci per file
-- ✅ Metadata terpisah dari ciphertext
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -84,13 +75,13 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:hendra.usman@example.com">
+  <a href="mailto:hendrasmanpal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hendrausman">
+  <a href="https://linkedin.com/in/hendra-usman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/hendrausman">
+  <a href="https://instagram.com/hndra.usmn">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
