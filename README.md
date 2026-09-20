@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hendra Usman (HXCODE)</h1>
+<h1 align="center">Hi 👋, I'm Hendra Usman HXCODE</h1>
 <h3 align="center">Master's Student | Blockchain & Cryptography Researcher | Full-Stack Developer</h3>
 
 <p align="center">
