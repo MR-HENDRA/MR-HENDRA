@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HXCODE&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-HENDR&theme=tokyonight" />
 </p>
 
 ---
@@ -93,5 +93,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HXCODE&label=Profile%20views&color=0e75b6&style=flat" alt="HXCODE" />
+  <img src="https://komarev.com/ghpvc/?username=MR-HENDRA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-HENDR" />
 </p>
