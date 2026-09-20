@@ -1,12 +1,30 @@
-## 👋 Hi, I’m HXCODE
+# 👋 Halo, saya Hendra (HXCODE)
 
-- I'm interested in programming, design and video
-- I'm studying Programming: Java, PHP, JS and Python
-- ️I like reading, listening to music and writing poetry.
+> **Master's Student · Blockchain Researcher · Developer**
 
-### Languages and Tools:
+Saya sedang meneliti **keamanan data** menggunakan **AES-GCM-256**, **IPFS**, dan **Blockchain**. Fokus pada **kriptografi terapan** dan **sistem terdesentralisasi**.
 
-<img align="left" alt="Programming Languange" width="26px" src="https://img.icons8.com/fluency/50/000000/python.png" />
-<img align="left" alt="html5" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<br />
-<br />
+---
+
+### 🔬 Sedang Dikerjakan
+- 🔐 **Encrypted File Storage on Blockchain**
+  - AES-GCM-256 untuk enkripsi
+  - IPFS untuk penyimpanan off-chain
+  - Solidity Smart Contract untuk integritas
+  - Python + Web3.py untuk client
+
+### 🎯 Minat
+`Cryptography` `Blockchain` `Smart Contract` `Decentralized Storage` `Security Research`
+
+### 💻 Bahasa & Tools
+`Python` · `Java` · `JavaScript` · `PHP` · `Solidity` · `Git` · `VS Code` · `Linux`
+
+### 📫 Kontak
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hendra@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendrausman)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HXCODE&show_icons=true&theme=radical&hide_border=true" />
+</p>
